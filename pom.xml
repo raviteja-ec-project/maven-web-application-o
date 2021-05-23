@@ -23,8 +23,8 @@
 		<spring.version>5.0.2.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.206.187.83:9000/</sonar.host.url>
-		<sonar.login>274ba1907ee1834b419b82a4788517c7495fa265</sonar.login>
+		<sonar.host.url>http://13.235.73.57:9000/</sonar.host.url>
+		<sonar.login>aba1cdf32ae209997510f2914fc9f5e13966cc65</sonar.login>
 		<!-- <sonar.password>admin</sonar.password> -->
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,7 +97,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Software Solutions Snapshot Nexus Repository </name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <url>http://13.235.73.57:8081/repository/maven-webapp-o-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
